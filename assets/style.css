@@ -1,0 +1,63 @@
+
+    main{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    header{
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 1500px;
+        height: 250px;
+        background:url(cabecera.jpeg);
+            
+    }
+ 
+    .header_titulo{
+        text-align:center;
+        text-shadow: 1px 1px 2px black;
+        font-size: 22px;
+        font-style: italic;
+        color:snow; 
+        padding-top: 80px;
+    }
+    .header_texto{
+        text-align:center;
+        text-shadow: 1px 1px 2px black;
+        color:floralwhite;
+        font-size:16px;
+        margin:auto;
+        display: block;
+        
+    }
+    
+      
+    body {
+        width: 80%;
+        margin:inherit;
+        }
+           
+   
+    table{
+        align-content:center;
+        margin-left: 250px;   
+    }
+     .producto_titulo{
+        text-align:justify;
+        font-weight:bold;
+        color:black;
+     }
+    .producto_texto{
+        font: 100;
+        text-align: justify;
+        color:purple;
+    }
+footer{
+        
+        background-color:darkslategray;
+        width: 1500px;
+        text-align: center;
+        color:azure;
+        font-size: small;
+
+    }
+   
